@@ -1,55 +1,14 @@
-# Angular basic
+# [Dan Olvera](https://daocodes.com/) Portfolio
+This site showcases what I am currently up to, current projects, and other things about myself.
 
-[Azure Static Web Apps](https://docs.microsoft.com/azure/static-web-apps/overview) allows you to easily build [Angular](https://angular.io/) apps in minutes. Use this repo with the [Angular quickstart](https://docs.microsoft.com/azure/static-web-apps/getting-started?tabs=angular) to build and customize a new static site.
+## Overview
+I am an Experienced Software Engineer currently at IntelliTect, where I focus on AI enablement and building high-performance cloud solutions. I mainly work in .NET, Azure, and angular but love to learn new technologies and am constantly looking at new frameworks or stacks.
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli).
+## Featured Projects
 
-## Project setup
+- BreakPoint.AI: A custom ML stack designed to analyze tennis swings and provide coaching feedback.
+- AI-Driven Indexing: A production-ready solution that automated textbook indexing, saving 4 weeks of manual labor.
+- High-Scale PDF Rendering: An AWS-powered solution capable of processing 100,000 bills in under 12 minutes.
 
-```bash
-npm install
-```
-
-### Start the dev server
-
-```bash
-npm run swa:start
-```
-
-> Note: This command will use the local configuration file `swa-cli.config.json`.
-
-### Run unit tests
-
-```bash
-npm test
-```
-
-### Run e2e tests
-
-```bash
-npm run e2e
-```
-
-### Lints and fixes files
-
-```bash
-npm run lint
-```
-
-### Compiles and minifies for production
-
-```bash
-npm run build
-```
-
-### Login to Azure
-
-```bash
-npm run swa:login
-```
-
-### Deploy to Azure
-
-```bash
-npm run swa:deploy
-```
+## Community Involvement
+I am passionate about fostering the local tech ecosystem and currently organize the [Spokane .NET User Group](https://www.youtube.com/playlist?list=PLRjft3wXvK_uIOFkhjCmW0Zd4Hp3vIvn9) to promote inclusive learning among developers. Check out our [upcoming events](https://www.eventbrite.com/o/intellitect-114361599431)!
