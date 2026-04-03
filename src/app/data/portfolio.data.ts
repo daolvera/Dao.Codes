@@ -74,6 +74,30 @@ export const PROJECTS: Project[] = [
     githubUrl: 'https://github.com/daolvera/Azure-Auth-Schematic',
     featured: true,
   },
+  {
+    title: 'Dao.SWC',
+    description:
+      'Star Wars CCG deck builder and online play application built with .NET Aspire.',
+    technologies: ['C#', '.NET Aspire', 'Angular', 'PostgreSQL', 'SignalR'],
+    githubUrl: 'https://github.com/daolvera/Dao.SWC',
+    featured: true,
+  },
+  {
+    title: 'Dao.DotNet.Templates',
+    description:
+      '.NET project templates for accelerating development with modern patterns focused on AI integration.',
+    technologies: ['C#', '.NET Aspire', 'Entity Framework', 'MCP'],
+    githubUrl: 'https://github.com/daolvera/Dao.DotNet.Templates',
+    featured: true,
+  },
+  {
+    title: 'Bootstrap Angular Schematic',
+    description:
+      'Angular schematic that generates a fully-configured Angular application with Bootstrap 5+, ng-bootstrap, and pre-built services.',
+    technologies: ['Angular', 'TypeScript', 'Bootstrap', 'ng-bootstrap'],
+    githubUrl: 'https://github.com/daolvera/bootstrap-angular-schematic',
+    featured: true,
+  },
 ];
 
 export const PROFILE = {
